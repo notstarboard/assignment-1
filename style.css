@@ -1,5 +1,12 @@
 html {
 	font-family: Helvetica;
+	font-size: medium;
+	color: #361500;
+	background-color: #6699cc;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 
 h1 {
@@ -7,16 +14,21 @@ h1 {
 	font-size: large;
 	font-weight: bold;
 	text-decoration: underline;
+	padding-left: 42%;
 }
 
 h2 {
-	font-size: medium;
 	font-weight: bold;
 	text-decoration: underline;
 }
 
 h3 {
-	font-size: medium;
+	margin: 0;
+}
+
+h4 {
+	font-weight: lighter;
+	margin: 0;
 }
 
 li {
@@ -24,7 +36,7 @@ li {
 }
 
 p {
-	
+
 }
 
 a {
